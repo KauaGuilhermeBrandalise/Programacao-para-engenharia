@@ -1,4 +1,4 @@
-lados = input('Dê três valores para o triangulo abaixo.')
+print('Dê três valores para o triangulo abaixo.')
 l1 = int(input('Primeiro: '))
 l2 = int(input('Segundo: '))
 l3 = int(input('Terceiro: '))
